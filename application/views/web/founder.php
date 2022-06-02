@@ -4,7 +4,7 @@
 <!------ Include the above in your HEAD tag ---------->
     <!--SECTION START-->
     <section>
-        <div class="container com-sp pad-bot-70">
+        <div class="container com-sp">
             <div class="row">
                 <div class="cor about-sp">
                     <div class="ed-about-tit">

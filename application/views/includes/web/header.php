@@ -75,7 +75,7 @@
                                 <li><a href="#">User profile</a></li>
                                 <li><a href="#">Courses</a></li>
                                 <li><a href="#">Exams</a></li>
-                                <li><a href="#">Prfile</a></li>
+                                <li><a href="#">Profile</a></li>
                                 <li><a href="#">Time line</a></li>
                             </ul>
                         </div>

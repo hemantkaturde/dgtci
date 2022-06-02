@@ -18,6 +18,10 @@
     }
 }
 
+.card
+{
+    margin: unset;
+}
 /*-------------------------------------------------------*/
 /* When the browser is between 0px and 1200px wide,below css will be applied.
 /*-------------------------------------------------------*/
@@ -90,7 +94,7 @@
         width:50%;
     }
     .red_topNav {
-        top:63px;
+        top:55px;
     }
      .top-logo,.ed-top{
          display:none;

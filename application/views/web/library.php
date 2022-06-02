@@ -1,11 +1,11 @@
 
     <!--SECTION START-->
     <section>
-        <div class="container com-sp pad-bot-70">
+        <div class="container_fluid com-sp">
             <div class="row">
                 <div class="cor about-sp" style="padding: 0px !important">
                         <div class="ed-about-tit" >
-                            <div class="con-title">
+                            <div class="con-title" style="padding:0 50px">
                                 <h2>Library</h2>
                                 <hr>
                                 <p style="color: #2e7464;"><b>Read, Learn, Inspire.</b></p>
@@ -17,7 +17,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="" style="margin-left: -150px; margin-right:-150px">
+                <div class="" style="">
                     <img src="<?php echo base_url() ?>assets/web/images/dgt/library-banner-img.jpg" class="img-fluid" alt="Responsive image" height="300px" width="100%">
                 </div>
             </div>
@@ -115,7 +115,7 @@
         </div>
         <div id="content">
             <section id="content1">
-                <h3>Based on this Dribbble</h3>
+                <h3 style="color:#fff">Based on this Dribbble</h3>
                 <p>
                     <a href="https://dribbble.com/shots/509024-Tabbed-Menu">
                         https://dribbble.com/shots/509024-Tabbed-Menu
@@ -126,7 +126,7 @@
                     sem quis urna condimentum, sit amet elementum magna semper.</p>
             </section>
             <section id="content2">
-                <h3>Something Clever</h3>
+                <h3 style="color:#fff">Something Clever</h3>
                 <p>Aliquam condimentum hendrerit nisi, nec vestibulum mi feugiat ut. Donec lobortis nisi neque, in
                     egestas eros venenatis eu. Vestibulum nulla nisi, venenatis at pretium id, fermentum quis risus.
                     Quisque porta suscipit neque eu placerat. Etiam scelerisque, quam in sodales iaculis, velit velit
@@ -139,7 +139,7 @@
                     purus sollicitudin, nec iaculis felis rutrum. </p>
             </section>
             <section id="content3">
-                <h3>Interesting Heading Text</h3>
+                <h3 style="color:#fff">Interesting Heading Text</h3>
                 <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
                     et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
                     euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
@@ -147,7 +147,7 @@
                     felis.</p>
             </section>
             <section id="content4">
-                <h3>Here Are Many Words</h3>
+                <h3 style="color:#fff">Here Are Many Words</h3>
                 <p>Vivamus convallis lectus lobortis dapibus ultricies. Sed fringilla vitae velit id rutrum. Maecenas
                     metus felis, congue ut ante vitae, porta cursus risus. Nulla facilisi. Praesent vel ligula et erat
                     euismod luctus. Etiam scelerisque placerat dapibus. Vivamus a mauris gravida urna mattis accumsan.
@@ -157,7 +157,7 @@
                     amet mattis.</p>
             </section>
             <section id="content5">
-                <h3>Here Are Many Words</h3>
+                <h3 style="color:#fff">Here Are Many Words</h3>
                 <p>Vivamus convallis lectus lobortis dapibus ultricies. Sed fringilla vitae velit id rutrum. Maecenas
                     metus felis, congue ut ante vitae, porta cursus risus. Nulla facilisi. Praesent vel ligula et erat
                     euismod luctus. Etiam scelerisque placerat dapibus. Vivamus a mauris gravida urna mattis accumsan.
@@ -320,7 +320,7 @@ a {
 #tabs {
 	padding: 0 0 0 50px;
 	width: calc(100% + 50px);
-	margin-left: -50px;
+	margin-left: -25px;
 	background: #2B2A28;
     /* background: #2e7464; */
 	height: 80px;

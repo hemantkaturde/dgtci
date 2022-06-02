@@ -57,19 +57,19 @@
                     <ul>
                         <li>
                             <a href="#" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img
-                                    src="images/icon/h-ic1.png" alt=""> Academy</a>
+                                    src="<?php echo base_url() ?>assets/web/images/icon/h-ic1.png" alt=""> Academy</a>
                         </li>
                         <li>
                             <a href="#" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img
-                                    src="images/icon/h-ic2.png" alt=""> Admission</a>
+                                    src="<?php echo base_url() ?>assets/web/images/icon/h-ic2.png" alt=""> Admission</a>
                         </li>
                         <li>
                             <a href="#" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img
-                                    src="images/icon/h-ic4.png" alt=""> Courses</a>
+                                    src="<?php echo base_url() ?>assets/web/images/icon/h-ic4.png" alt=""> Courses</a>
                         </li>
                         <li>
                             <a href="#" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img
-                                    src="images/icon/h-ic3.png" alt=""> Seminar</a>
+                                    src="<?php echo base_url() ?>assets/web/images/icon/h-ic3.png" alt=""> Seminar</a>
                         </li>
                     </ul>
                 </div>
@@ -91,7 +91,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt-about.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt-about.png" alt="">
                                 <span>Academics</span>
                             </a>
                         </div>
@@ -99,7 +99,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_admission.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_admission.png" alt="">
                                 <span>Admission</span>
                             </a>
                         </div>
@@ -107,7 +107,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_profile.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_profile.png" alt="">
                                 <span>Students profile</span>
                             </a>
                         </div>
@@ -115,7 +115,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_edu.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu.png" alt="">
                                 <span>Research & Education</span>
                             </a>
                         </div>
@@ -123,7 +123,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_course.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_course.png" alt="">
                                 <span>Course</span>
                             </a>
                         </div>
@@ -131,7 +131,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_exam.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_exam.png" alt="">
                                 <span>Exam Time Line</span>
                             </a>
                         </div>
@@ -139,7 +139,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_seminar.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_seminar.png" alt="">
                                 <span>Seminar 2018</span>
                             </a>
                         </div>
@@ -147,7 +147,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="images/dgt/dgt_edu1.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu1.png" alt="">
                                 <span>Research & Education</span>
                             </a>
                         </div>
@@ -173,40 +173,40 @@
                         <h4>Photo Gallery</h4>
                         <ul>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo1.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo1.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo2.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo2.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo3.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo3.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo4.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo4.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo5.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo5.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo6.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo6.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/banner5.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/banner5.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo8.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo8.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo9.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo9.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo10.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo10.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo11.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo11.png" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="images/dgt/photo12.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo12.png" alt="">
                             </li>
                         </ul>
                     </div>
