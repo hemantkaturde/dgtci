@@ -54,6 +54,13 @@ $(document).ready(function() {
         $(".infra-mm").fadeOut();
     });
 
+    $(".admini-menu").hover(function() {
+        $(".admini-mm").fadeIn();
+    });
+    $(".admini-menu").mouseleave(function() {
+        $(".admini-mm").fadeOut();
+    });
+
     $(".activity-menu").hover(function() {
         $(".activity-mm").fadeIn();
     });

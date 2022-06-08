@@ -88,6 +88,7 @@
 
     <!--HEADER SECTION-->
     <section style="background: aliceblue;">
+    <!-- <section> -->
         <!-- LOGO AND MENU SECTION -->
         <div class="top-logo"  data-offset-top="250">
             <div class="container">
@@ -206,7 +207,7 @@
                                             <h4 style="text-align:center;">Department</h4>
                                             <div class="m-menu-inn" style="margin-top:10px">
                                                 <div class="mm1-com mm1-s1">
-                                                    <h4>Arts</h4>
+                                                    <h4>B.A</h4>
                                                     <ul>
                                                         <li><a href="#">Marathi</a></li>
                                                         <li><a href="#">Political Science</a></li>
@@ -215,28 +216,31 @@
                                                     </ul>
                                                 </div>
                                                 <div class="mm1-com mm1-s2" style="width:15%">
-                                                    <h4>Commerce</h4>
+                                                    <h4>B.COM</h4>
                                                     <ul>
-                                                        <li><a href="#">B.Com</a></li>
+                                                        <li><a href="#">Accountancy</a></li>
+                                                        <li><a href="#">Commerce</a></li>
+                                                        <li><a href="#">Bussiness Economics</a></li>
+                                                        <li><a href="#">Foundation Course</a></li>
                                                         
                                                     </ul>
                                                 </div>
                                                 <div class="mm1-com mm1-s3" style="width:15%">
-                                                    <h4>Master in Arts</h4>
+                                                    <h4>M.A</h4>
                                                     <ul>
-                                                        <li><a href="#">M.A</a></li>
+                                                        <li><a href="#">Political Science</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="mm1-com mm1-s4" style="width:20%;border-right: 1px solid #eaeaea;">
-                                                    <h4>Master in Commerce</h4>
+                                                    <h4>M.Com</h4>
                                                     <ul>
-                                                        <li><a href="#">M.Com</a></li>
+                                                        <li><a href="#">Advance Accountancy</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="mm1-com mm1-s5" style="width:25%;">
-                                                    <h4>Other</h4>
+                                                    <h4>Other Courses</h4>
                                                     <ul>
-                                                        <li><a href="#">Other certificate Course in Yoga</a></li>
+                                                        <li><a href="#">Other Courses</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -244,6 +248,34 @@
                                     </div>
                                     <!-- <a href="about.html" class="mm-arr">About us</a>                                    -->
                                 </li>
+
+                                <li class="admini-menu" >
+                                    <a href="#" class="mm-arr">Administration</a>
+                                    <div class="mm-pos">
+                                        <div class="admini-mm m-menu" style="display: none;">
+                                            <h4 style="text-align:center;">Administration</h4>
+                                            <div class="m-menu-inn" style="margin-top:10px">
+                                                <div class="mm1-com mm1-s1">
+                                                    <div class="ed-course-in">
+                                                        <a class="course-overlay menu-dep" href="#">
+                                                            <img src="images/dgt/banner5.png" alt="">
+                                                            <!--<span>Academics</span>-->
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="mm1-com mm1-com mm1-s2">
+                                                    <ul>
+                                                        <li><a href="#">Administration Committee</a></li>
+                                                        <li><a href="#">Teaching Staff</a></li>
+                                                        <li><a href="#">Non Teaching Staff</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                    
+
                                 <li class="infra-menu" >
                                     <a href="#" class="mm-arr">Infrastructure</a>
                                     <div class="mm-pos">
@@ -353,6 +385,10 @@
                                 </li>
 
                                 <li>
+                                    <a href="<?php echo base_url() ?>downloads">Downloads</a>
+                                </li>
+
+                                <li>
                                     <a href="<?php echo base_url() ?>gallery">Gallery</a>
                                 </li>
 
@@ -366,8 +402,23 @@
     </section>
     <!--END HEADER SECTION-->
 
-    <style>
-        .blink_me {
+
+    <div class="ticker"> 
+            <div class="title"><h5><text class="blink_me">Announcements</text></h5></div> 
+            <div class="news"> 
+            <marquee class="news-content"> 
+                <p>  <a href=""><u>Admission Started, </u></a></p> 
+                <p>  NAAC Processing </p> 
+                
+            </marquee> 
+        </div> 
+      </div>        
+
+<style>
+
+    a{color: #fff;text-decoration: none}.ticker{display: flex;flex-wrap: wrap;width: 100%;height: 50px;}.news{width: 80%;background: #f26838;padding: 0 2%}.title{width: 20%; color: #fff !important;text-align: center;background: brown;position: relative}.title:after{position: absolute;content: "";right: -22%;border-left: 20px solid #c81c1c;border-top: 28px solid transparent;border-right: 20px solid transparent;border-bottom: 21px solid transparent;top: 0px}.title h5{font-size: 18px;margin: 4% 0}.news marquee{font-size: 18px;margin-top: 12px;}.news-content p{margin-right: 0px;display: inline;color: #fff !important;}
+
+.blink_me {
   animation: blinker 1s linear infinite;
 }
 
@@ -376,4 +427,4 @@
     opacity: 0;
   }
 }
-        </style>
+</style>
