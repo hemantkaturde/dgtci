@@ -389,7 +389,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="<?php echo base_url() ?>gallery">Gallery</a>
+                                    <a href="#">Gallery</a>
                                 </li>
 
                                 <li><a href="<?php echo base_url() ?>contact_us">Contact Us</a></li>
@@ -407,8 +407,8 @@
             <div class="title"><h5><text class="blink_me">Announcements</text></h5></div> 
             <div class="news"> 
             <marquee class="news-content"> 
-                <p>  <a href=""><u>Admission Started, </u></a></p> 
-                <p>  NAAC Processing </p> 
+                <p>  <a href="https://mu.ac.in/" target="_blank"><u>Online Admission for TY / SY / TY classes for Academic year 2022-23 started </u></a></p> 
+                <!-- <p>  NAAC Processing </p>  -->
                 
             </marquee> 
         </div> 
