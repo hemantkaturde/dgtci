@@ -10,6 +10,7 @@ $route['about_college'] = "web/about_college";
 $route['founder'] = "web/founder";
 $route['vision_mission'] = "web/vision_mission";
 $route['library'] = "web/library";
+$route['gallery'] = "web/gallery";
 $route['executive_committee'] = "web/executive_committee";
 $route['college_development_committee'] = "web/college_development_committee";
 $route['contact_us'] = "web/contact_us";

@@ -20,6 +20,8 @@
     <link href="<?php echo base_url() ?>assets/web/css/bootstrap.css" rel="stylesheet" />
     <link href="<?php echo base_url() ?>assets/web/css/style.css" rel="stylesheet" />
     <link href="<?php echo base_url() ?>assets/web/css/custom.css" rel="stylesheet" />
+    <link href="<?php echo base_url() ?>assets/web/lib/slick/slick.css" rel="stylesheet">
+    <link href="<?php echo base_url() ?>assets/web/lib/slick/slick-theme.css" rel="stylesheet">
     <!-- RESPONSIVE.CSS ONLY FOR MOBILE AND TABLET VIEWS -->
     <link href="<?php echo base_url() ?>assets/web/css/style-mob.css" rel="stylesheet" />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -389,7 +391,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="#">Gallery</a>
+                                    <a href="<?php echo base_url() ?>gallery">Gallery</a>
                                 </li>
 
                                 <li><a href="<?php echo base_url() ?>contact_us">Contact Us</a></li>

@@ -50,7 +50,11 @@ class Web extends BaseController
         $this->webloadViews("web/contact_us", $this->global, '', NULL);
     }
 
-    
+    public function gallery(){
+        $this->global['pageTitle'] = 'Gallery';
+        $this->webloadViews("web/gallery", $this->global, '', NULL);
+    }
+
     public function aqar_report(){
         $this->global['pageTitle'] = 'Contact Us';
         $this->webloadViews("web/aqar_report", $this->global, '', NULL);
