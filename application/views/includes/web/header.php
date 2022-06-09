@@ -179,7 +179,7 @@
                                                 <div class="mm1-com mm1-s1">
                                                     <div class="ed-course-in">
                                                         <a class="course-overlay menu-about" href="#">
-                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/about_us.jpeg" alt="">
+                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/admission.jpg" alt="">
                                                             <!--<span>Academics</span>-->
                                                         </a>
                                                     </div>
@@ -188,11 +188,11 @@
                                                     <!-- <h4>Frontend pages:1</h4> -->
                                                     <ul>
                                                         <li><a href="#">Examination</a></li>
-                                                        <li><a href="#">Research</a></li>
+                                                        <!-- <li><a href="#">Research</a></li> -->
                                                         <li><a href="#">Scholership</a></li>
-                                                        <li><a href="#">Activities</a></li>
-                                                        <li><a href="#">Code Conduct</a></li>
-                                                        <li><a href="#">E-Resourse</a></li>
+                                                        <!-- <li><a href="#">Activities</a></li> -->
+                                                        <!-- <li><a href="#">Code Conduct</a></li>
+                                                        <li><a href="#">E-Resourse</a></li> -->
                                                         <li><a href="#">MOUs</a></li>
                                                     </ul>
                                                 </div>
