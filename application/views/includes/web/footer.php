@@ -288,6 +288,7 @@
     <script src="<?php echo base_url() ?>assets/web/js/bootstrap.min.js"></script>
     <script src="<?php echo base_url() ?>assets/web/js/materialize.min.js"></script>
     <script src="<?php echo base_url() ?>assets/web/js/custom.js"></script>
+    <script src="<?php echo base_url() ?>assets/web/lib/slick/slick.min.js"></script>
 </body>
 
 </html>

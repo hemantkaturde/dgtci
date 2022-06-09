@@ -5147,7 +5147,7 @@ left: 0;
     font-weight: 600;
 }
 .page-back a i {} .nav-tabs > li > a {
-    color: #0e76a8;
+    color: #2e7464;
     font-weight: 700;
     font-size: 14px;
 }
@@ -5766,3 +5766,11 @@ padding: 6px 25px;
 .ad-log-in-con p{}
 .ad-log-in-con form{}
 .ad-log-in-con form input{}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: #fff;
+    cursor: default;
+    background-color: #2e7464;
+    border: 1px solid #dcdbdb;
+    border-bottom-color: transparent;
+}

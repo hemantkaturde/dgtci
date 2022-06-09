@@ -129,86 +129,6 @@
   </div> <!-- /row -->
 </div> <!-- /container -->
 
-<section>
-    <main>
-        <h1 style="color: #fff;">Shri Manohar Keshav Randive Library</h1>
-        <input id="radio1" type="radio" name="css-tabs" checked>
-        <input id="radio2" type="radio" name="css-tabs">
-        <input id="radio3" type="radio" name="css-tabs">
-        <input id="radio4" type="radio" name="css-tabs">
-        <input id="radio5" type="radio" name="css-tabs">
-        <input id="radio6" type="radio" name="css-tabs">
-        <input id="radio7" type="radio" name="css-tabs">
-        <input id="radio8" type="radio" name="css-tabs">
-        <div id="tabs">
-            <label id="tab1" for="radio1" style="color: #fff;">Home</label>
-            <label id="tab2" for="radio2" style="color: #fff;">Services</label>
-            <label id="tab3" for="radio3" style="color: #fff;">Committee</label>
-            <label id="tab4" for="radio4" style="color: #fff;">library Staff</label>
-            <label id="tab5" for="radio5" style="color: #fff;">WEB OPAC</label>
-            <label id="tab6" for="radio6" style="color: #fff;">E-RESOURCES</label>
-            <label id="tab7" for="radio7" style="color: #fff;">Competitive Exam</label>
-            <label id="tab8" for="radio9" style="color: #fff;">CONTACT US</label>
-        </div>
-        <div id="content">
-            <section id="content1">
-                <h3 style="color:#fff">Based on this Dribbble</h3>
-                <p>
-                    <a href="https://dribbble.com/shots/509024-Tabbed-Menu">
-                        https://dribbble.com/shots/509024-Tabbed-Menu
-                    </a>
-                </p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis adipiscing risus, porttitor
-                    viverra urna condimentum et. Donec vestibulum lacus vel dolor dictum pellentesque. Aliquam sodales
-                    sem quis urna condimentum, sit amet elementum magna semper.</p>
-            </section>
-            <section id="content2">
-                <h3 style="color:#fff">Something Clever</h3>
-                <p>Aliquam condimentum hendrerit nisi, nec vestibulum mi feugiat ut. Donec lobortis nisi neque, in
-                    egestas eros venenatis eu. Vestibulum nulla nisi, venenatis at pretium id, fermentum quis risus.
-                    Quisque porta suscipit neque eu placerat. Etiam scelerisque, quam in sodales iaculis, velit velit
-                    mattis nunc, quis dapibus massa elit nec enim. Vivamus quis libero aliquam, volutpat nisl sed,
-                    consectetur ante.</p>
-                <p>Donec aliquam semper felis, in placerat leo blandit in. Integer interdum elit quis felis tempor
-                    venenatis. In faucibus ac mauris id commodo. Proin in sapien tincidunt, luctus mi id, bibendum dui.
-                    Nunc tincidunt libero ut purus vehicula, sit amet tincidunt mi sollicitudin. Donec varius erat
-                    magna, sed convallis purus adipiscing ut. Duis sagittis ut leo ut auctor. Ut convallis nisl nec
-                    purus sollicitudin, nec iaculis felis rutrum. </p>
-            </section>
-            <section id="content3">
-                <h3 style="color:#fff">Interesting Heading Text</h3>
-                <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
-                    et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
-                    euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
-                    commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
-                    felis.</p>
-            </section>
-            <section id="content4">
-                <h3 style="color:#fff">Here Are Many Words</h3>
-                <p>Vivamus convallis lectus lobortis dapibus ultricies. Sed fringilla vitae velit id rutrum. Maecenas
-                    metus felis, congue ut ante vitae, porta cursus risus. Nulla facilisi. Praesent vel ligula et erat
-                    euismod luctus. Etiam scelerisque placerat dapibus. Vivamus a mauris gravida urna mattis accumsan.
-                </p>
-                <p>Duis sagittis massa vel elit tincidunt, sed molestie lacus dictum. Mauris elementum, neque eu dapibus
-                    gravida, eros arcu euismod metus, vitae porttitor nibh elit at orci. Vestibulum laoreet id nulla sit
-                    amet mattis.</p>
-            </section>
-            <section id="content5">
-                <h3 style="color:#fff">Here Are Many Words</h3>
-                <p>Vivamus convallis lectus lobortis dapibus ultricies. Sed fringilla vitae velit id rutrum. Maecenas
-                    metus felis, congue ut ante vitae, porta cursus risus. Nulla facilisi. Praesent vel ligula et erat
-                    euismod luctus. Etiam scelerisque placerat dapibus. Vivamus a mauris gravida urna mattis accumsan.
-                </p>
-                <p>Duis sagittis massa vel elit tincidunt, sed molestie lacus dictum. Mauris elementum, neque eu dapibus
-                    gravida, eros arcu euismod metus, vitae porttitor nibh elit at orci. Vestibulum laoreet id nulla sit
-                    amet mattis.</p>
-            </section>
-        </div>
-    </main>
-</section>
-
-
-
 
 <style>
 
@@ -238,11 +158,6 @@
 
 /*  -           Coursal         -  */
 
-
-
-
-
-
     .red_topNav {
         clear: both;
         position: relative;
@@ -250,8 +165,6 @@
         height: 24px;
         background: url(../sites/all/themes/iist/images/red_navBg.gif) repeat-x 0 100% #2e7464;
     }
-
-
 
     /*  bhoechie tab */
     div.bhoechie-tab-container {
@@ -331,168 +244,163 @@
         display: none;
     }
 
-
-
-    @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
-
-/* body { */
- /* background: #B1A7A0; */
-/* 	color: #FCF9F4; */
-  /*  font-family: "Open Sans", "Arial"; */
-/* } */
-main {
-  max-width: 1400px;
-  margin: 30px auto;
-	/* background: #3F3F3D; */
-    background: #002147;
-	padding: 30px;
-	box-shadow: 0 3px 5px rgba(0,0,0,0.2);
-}
-input[name=css-tabs] {
-  display: none;
-}
-a {
-	color: #F29A77;
-}
-#tabs {
-	padding: 0 0 0 50px;
-	width: calc(100% + 50px);
-	margin-left: -25px;
-	background: #2B2A28;
-    /* background: #2e7464; */
-	height: 80px;
-	border-bottom: 5px solid #EB4E01;
-	box-shadow: 0 3px 5px rgba(0,0,0,0.2);
-}
-#tabs::before {
-	content: "";
-	display: block;
-	position: absolute;
-	z-index: -100;
-	width: 100%;
-	left: 0;
-	margin-top: 16px;
-	height: 80px;
-	background: #2B2A28;
-	border-bottom: 5px solid #EB4E01;
-}
-#tabs::after {
-	content: "";
-	display: block;
-	position: absolute;
-	z-index: 0;
-	height: 80px;
-	width: 150px;
-	background: #EB4E01;
-	transition: transform 400ms;
-}
-#tabs label {
-	position: relative;
-	z-index: 100;
-	display: block;
-	float: left;
-  font-size: 11px;
-	text-transform: uppercase;
-	text-align: center;
-	width: 150px;
-	height: 100%;
-	border-right: 1px dotted #575654;
-	cursor: pointer;
-}
-#tabs label:first-child {
-	border-left: 1px dotted #575654;
-}
-#tabs label::before {
-	content: "";
-	display: block;
-	height: 30px;
-	width: 30px;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: contain;
-	filter: invert(40%);
-	margin: 10px auto;
-}
-#tab1::before {
-	background-image: url(<?php echo base_url() ?>assets/web/images/slider/banner1.png);
-    color: #fff;
-}
-#tab2::before {
-	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/106891/big-cloud.png);
-}
-#tab3::before {
-	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/106891/folding-brochure.png);
-}
-#tab4::before {
-	background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/106891/mans-silhouette.png);
-}
-#radio1:checked ~ #tabs #tab1::before, #radio2:checked ~ #tabs #tab2::before, #radio3:checked ~ #tabs #tab3::before, #radio4:checked ~ #tabs #tab4::before,#radio5:checked ~ #tabs #tab5::before {
-	filter: invert(100%);
-}
-#radio1:checked ~ #tabs::after {
-	transform: translateX(0);
-}
-#radio2:checked ~ #tabs::after {
-	transform: translateX(150px);
-}
-#radio3:checked ~ #tabs::after {
-	transform: translateX(300px);
-}
-#radio4:checked ~ #tabs::after {
-	transform: translateX(450px);
-}
-
-#radio5:checked ~ #tabs::after {
-	transform: translateX(600px);
-}
-#content {
-	position: relative;
-	height: 500px;
-}
-#content::before {
-	content: "";
-	display: block;
-	position: absolute;
-	width: 0;
-	height: 0;
-	margin-left: -50px;
-	border-top: 8px solid #000;
-	border-right: 10px solid #000;
-	border-left: 10px solid transparent;
-	border-bottom: 8px solid transparent;
-}
-#content::after {
-	content: "";
-	display: block;
-	position: absolute;
-	width: 0;
-	height: 0;
-	margin-left: calc(100% + 30px);
-	border-top: 8px solid #000;
-	border-left: 10px solid #000;
-	border-right: 10px solid transparent;
-	border-bottom: 8px solid transparent;
-}
-#content section {
-	position: absolute;
-	transform: translateY(50px);
-	opacity: 0;
-	transition: transform 500ms, opacity 500ms;
-}
-#radio1:checked ~ #content #content1, #radio2:checked ~ #content #content2, #radio3:checked ~ #content #content3, #radio4:checked ~ #content #content4, #radio5:checked ~ #content #content5 {
-	transform: translateY(0);
-	opacity: 1;
-}
-footer {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  font-size: 13px;
-  background: #555;
-  padding: 5px 10px;
-  margin: 5px;
-}
 </style>
+
+
+<div id="exTab2" class="container" style="margin-top:30px;margin-bottom:30px;">	
+        <ul class="nav nav-tabs">
+			<li class="active"><a  href="#1" data-toggle="tab">Home</a></li>
+			<li><a href="#2" data-toggle="tab">Services</a></li>
+			<li><a href="#3" data-toggle="tab">Committee</a></li>
+            <li><a href="#4" data-toggle="tab">Library Staff</a></li>
+            <li><a href="#5" data-toggle="tab">WEB OPAC</a></li>
+            <li><a href="#6" data-toggle="tab">E-RESOURCES</a></li>
+            <li><a href="#7" data-toggle="tab">Competitive Exam</a></li>
+            <li><a href="#8" data-toggle="tab">Contact Us</a></li>
+		</ul>
+
+			<div class="tab-content ">
+			    <div class="tab-pane active" id="1">
+                    <h3>Based on this Dribbble</h3>
+                    <p>
+                        <a href="https://dribbble.com/shots/509024-Tabbed-Menu">
+                            https://dribbble.com/shots/509024-Tabbed-Menu
+                        </a>
+                    </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis adipiscing risus, porttitor
+                        viverra urna condimentum et. Donec vestibulum lacus vel dolor dictum pellentesque. Aliquam sodales
+                        sem quis urna condimentum, sit amet elementum magna semper.</p>
+			    </div>
+				<div class="tab-pane" id="2">
+                    <h3>Something Clever</h3>
+                    <p>Aliquam condimentum hendrerit nisi, nec vestibulum mi feugiat ut. Donec lobortis nisi neque, in
+                        egestas eros venenatis eu. Vestibulum nulla nisi, venenatis at pretium id, fermentum quis risus.
+                        Quisque porta suscipit neque eu placerat. Etiam scelerisque, quam in sodales iaculis, velit velit
+                        mattis nunc, quis dapibus massa elit nec enim. Vivamus quis libero aliquam, volutpat nisl sed,
+                        consectetur ante.</p>
+                    <p>Donec aliquam semper felis, in placerat leo blandit in. Integer interdum elit quis felis tempor
+                        venenatis. In faucibus ac mauris id commodo. Proin in sapien tincidunt, luctus mi id, bibendum dui.
+                        Nunc tincidunt libero ut purus vehicula, sit amet tincidunt mi sollicitudin. Donec varius erat
+                        magna, sed convallis purus adipiscing ut. Duis sagittis ut leo ut auctor. Ut convallis nisl nec
+                        purus sollicitudin, nec iaculis felis rutrum. </p>
+				</div>
+                <div class="tab-pane" id="3">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+                <div class="tab-pane" id="4">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+                <div class="tab-pane" id="5">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+                <div class="tab-pane" id="6">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+                <div class="tab-pane" id="7">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+                <div class="tab-pane" id="8">
+                    <h3>Interesting Heading Text</h3>
+                    <p>Fusce pulvinar porttitor dui, eget ultrices nulla tincidunt vel. Suspendisse faucibus lacinia tellus,
+                        et viverra ligula. Suspendisse eget ipsum auctor, congue metus vel, dictum erat. Aenean tristique
+                        euismod molestie. Nulla rutrum accumsan nisl, ac semper sapien tincidunt et. Praesent tortor risus,
+                        commodo et sagittis nec, aliquam quis augue. Aenean non elit elementum, tempor metus at, aliquam
+                        felis.</p>
+				</div>
+			</div>
+    </div>
+
+    <!-- Featured Product Start -->
+  <div class="featured-product product">
+            <div class="container-fluid">
+                <div class="section-header">
+                    <h3 class="text-center" style="margin-bottom:10px;">Gallery</h3>
+                </div>
+                <div class="row align-items-center product-slider product-slider-4">
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo1.png" width="210" alt="Lib Img">
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo2.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo3.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                   <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo4.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo5.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo6.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="product-item">
+                            <div class="product-image1">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo8.png" width="210" alt="Lib Img">
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- Featured Product End -->
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
 <script>
     $(document).ready(function () {
