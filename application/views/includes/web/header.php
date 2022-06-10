@@ -125,7 +125,7 @@
             </div>
         </div>
         <div class="search-top" style="height: 40px !important;">
-            <div class="container_fluid">
+            <div class="container">
                 <div class="row" style="margin:0">
                     <div class="col-md-12">
                         <div class="main-menu" style="height: 45px;margin-top: -10px;">
