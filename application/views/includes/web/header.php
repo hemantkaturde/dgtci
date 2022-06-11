@@ -125,9 +125,9 @@
         </div>
         <div class="search-top" style="height: 40px !important;">
             <div class="container">
-                <div class="row" style="margin:0">
+                <div class="row" style="margin:0;">
                     <div class="col-md-12">
-                        <div class="main-menu" style="height: 45px;margin-top: -10px;">
+                        <div class="main-menu" style="height: 45px;margin-top: -10px; width: max-content;">
                             <ul style="float: none;">
                                 <li><a href="<?php echo base_url() ?>">Home</a>
                                 </li>
@@ -325,9 +325,15 @@
                                                         <li><a href="<?php echo base_url() ?>aqar_report">AQAR Report</a></li>
                                                         <li><a href="<?php echo base_url() ?>atr_report">IQAC Minutes & ATR</a></li>
                                                         <li><a href="<?php echo base_url() ?>ssr">SSR</a></li>
+                                                       
+                                                        <li><a href="<?php echo base_url() ?>rti_report">RTI</a></li>
+                                                    </ul>
+                                                </div>
+
+                                                <div class="mm1-com mm1-com mm1-s3">
+                                                    <ul>
                                                         <li><a href="#">Other Documents</a></li>
                                                         <li><a href="#">Certificates</a></li>
-                                                        <li><a href="<?php echo base_url() ?>rti_report">RTI</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
