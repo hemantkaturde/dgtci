@@ -70,5 +70,10 @@ class Web extends BaseController
         $this->webloadViews("web/rti_report", $this->global, '', NULL);
     }
 
+    public function ssr(){
+        $this->global['pageTitle'] = 'SSR';
+        $this->webloadViews("web/ssr", $this->global, '', NULL);
+    }
+
 }
 ?>

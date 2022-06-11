@@ -18,6 +18,7 @@ $route['contact_us'] = "web/contact_us";
 $route['aqar_report'] = "web/aqar_report";
 $route['atr_report'] = "web/atr_report";
 $route['rti_report'] = "web/rti_report";
+$route['ssr'] = "web/ssr";
 
 /*********** END WEB ROUTES *******************/
 

@@ -44,8 +44,7 @@
                         </a>
                     </div>
                         <div class="main-menu" style="width: 55%;text-align: center">
-                           
-                                    <h5 style="margin-top:0; color:#2e7464; width: 200px;">D. G. TATKARE ARTS & COMMERCE COLLEGE, TALA</h5>                                </li>
+                                    <h5 style="margin-top:0; color:#2e7464; width: 200px;">D. G. TATKARE ARTS & COMMERCE COLLEGE, TALA</h5>
                     
                         </div>
                 </div>
@@ -315,7 +314,7 @@
                                                 <div class="mm1-com mm1-s1">
                                                     <div class="ed-course-in">
                                                         <a class="course-overlay menu-dep" href="#">
-                                                            <img src="images/dgt/banner5.png" alt="">
+                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/NAAC-logo.png" alt="" height='350px' width='150px'>
                                                             <!--<span>Academics</span>-->
                                                         </a>
                                                     </div>
@@ -325,8 +324,9 @@
                                                         <li><a href="<?php echo base_url() ?>executive_committee">IQAC Committee</a></li>
                                                         <li><a href="<?php echo base_url() ?>aqar_report">AQAR Report</a></li>
                                                         <li><a href="<?php echo base_url() ?>atr_report">IQAC Minutes & ATR</a></li>
-                                                        <li><a href="#">SSR</a></li>
+                                                        <li><a href="<?php echo base_url() ?>ssr">SSR</a></li>
                                                         <li><a href="#">Other Documents</a></li>
+                                                        <li><a href="#">Certificates</a></li>
                                                         <li><a href="<?php echo base_url() ?>rti_report">RTI</a></li>
                                                     </ul>
                                                 </div>
