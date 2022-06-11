@@ -923,11 +923,20 @@ h2, .h2 {
 /*-------------------------------------------------*/
  .main-menu{
      float: right;
-     width: 85%;
+     width: 100%;
 }
 /* .main-menu ul{*/
 /*     float: right;*/
 /*}*/
+.main-menu1 ul
+{
+    display: flex;   
+}
+
+.main-menu1 ul li{
+    padding: 15px 5px;
+}
+
  .main-menu ul li{
      float: left;
      display: inline-block;
@@ -3116,7 +3125,7 @@ h2, .h2 {
      width: 25%;
      float: left;
      box-sizing: border-box;
-     padding: 20px;
+     padding: 18px;
      border-right: 1px solid #eaeaea;
 }
 .mm1-com1{
