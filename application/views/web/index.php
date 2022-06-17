@@ -79,7 +79,7 @@
 
     <!-- DISCOVER MORE -->
     <section>
-        <div class="container com-sp pad-bot-70">
+        <div class="container com-sp pad-bot-0">
             <div class="row">
                 <div class="con-title">
                     <h2>Discover <span>More</span></h2>
@@ -91,7 +91,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt-about.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt-about.jpg" alt="">
                                 <span>Academics</span>
                             </a>
                         </div>
@@ -99,7 +99,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_admission.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_admission.jpg" alt="">
                                 <span>Admission</span>
                             </a>
                         </div>
@@ -107,7 +107,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_profile.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_profile.jpg" alt="">
                                 <span>Students profile</span>
                             </a>
                         </div>
@@ -115,7 +115,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu.jpg" alt="">
                                 <span>Research & Education</span>
                             </a>
                         </div>
@@ -123,7 +123,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_course.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_course.jpg" alt="">
                                 <span>Course</span>
                             </a>
                         </div>
@@ -131,7 +131,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_exam.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_exam.jpg" alt="">
                                 <span>Exam Time Line</span>
                             </a>
                         </div>
@@ -139,7 +139,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_seminar.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_seminar.jpg" alt="">
                                 <span>Seminar 2018</span>
                             </a>
                         </div>
@@ -147,7 +147,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="#">
-                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu1.png" alt="">
+                                <img src="<?php echo base_url() ?>assets/web/images/dgt/dgt_edu1.jpg" alt="">
                                 <span>Research & Education</span>
                             </a>
                         </div>
@@ -163,8 +163,8 @@
             <div class="row">
                 <div class="con-title">
                     <h2>News and <span>Events</span></h2>
-                    <p>Fusce id sem at ligula laoreet hendrerit venenatis sed purus. Ut pellentesque maximus lacus, nec
-                        pharetra augue.</p>
+                    <!-- <p>Fusce id sem at ligula laoreet hendrerit venenatis sed purus. Ut pellentesque maximus lacus, nec
+                        pharetra augue.</p> -->
                 </div>
             </div>
             <div class="row">
@@ -173,40 +173,40 @@
                         <h4>Photo Gallery</h4>
                         <ul>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo1.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo1.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo2.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo2.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo3.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo3.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo4.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo4.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo5.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo5.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo6.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo6.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/banner5.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/banner5.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo8.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo8.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo9.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo9.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo10.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo10.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo11.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo11.jpg" alt="">
                             </li>
                             <li><img class="materialboxed" data-caption="Education master image captions"
-                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo12.png" alt="">
+                                    src="<?php echo base_url() ?>assets/web/images/dgt/photo12.jpg" alt="">
                             </li>
                         </ul>
                     </div>
@@ -216,7 +216,7 @@
                         <h4>Video Gallery</h4>
                         <iframe src="https://www.youtube.com/embed/2WqFtiR4-F4?autoplay=0&showinfo=0&controls=0"
                             allowfullscreen></iframe>
-                        <h5>Maecenas sollicitudin lacinia</h5>
+                        <h5>D G Tatkare College Tala , Raigad</h5>
                         <p>Maecenas finibus neque a tellus auctor mattis. Aliquam tempor varius ornare. Maecenas
                             dignissim leo leo, nec posuere purus finibus vitae.</p>
                         <p>Quisque vitae neque at tellus malesuada convallis. Phasellus in lectus vitae ex euismod
