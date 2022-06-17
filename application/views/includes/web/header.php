@@ -135,13 +135,13 @@
                                     <a href="#" class="mm-arr">About Us</a>
                                     <!-- MEGA MENU 1 -->
                                     <div class="mm-pos">
-                                        <div class="cour-mm m-menu" style="display: none;">
+                                        <div class="cour-mm m-menu" style="display: none; margin-left: -25%">
                                             <h4 style="text-align:center;color:#f26838">About Us</h4>
                                             <div class="m-menu-inn" style="margin-top:10px">
                                                 <div class="mm1-com mm1-s1">
                                                     <div class="ed-course-in">
                                                         <a class="course-overlay menu-about" href="#">
-                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/about_us.jpeg" alt="">
+                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/about_us.jpg" alt="">
                                                         </a>
                                                     </div>
                                                 </div>
@@ -314,7 +314,7 @@
                                                 <div class="mm1-com mm1-s1">
                                                     <div class="ed-course-in">
                                                         <a class="course-overlay menu-dep" href="#">
-                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/NAAC-logo.png" alt="" height='350px' width='150px'>
+                                                            <img src="<?php echo base_url() ?>assets/web/images/dgt/NAAC-logo.jpg" alt="" height='350px' width='150px'>
                                                             <!--<span>Academics</span>-->
                                                         </a>
                                                     </div>

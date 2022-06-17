@@ -344,49 +344,49 @@
                 <div class="row align-items-center product-slider product-slider-4">
                     <div class="col-lg-3">
                         <div class="product-item">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo1.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo1.jpg" width="210" alt="Lib Img">
 
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo2.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo2.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo3.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo3.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>
                    <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo4.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo4.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo5.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo5.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo6.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo6.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="product-item">
                             <div class="product-image1">
-                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo8.png" width="210" alt="Lib Img">
+                                    <img src="<?php echo base_url() ?>assets/web/images/dgt/photo8.jpg" width="210" alt="Lib Img">
                             </div>
                         </div>
                     </div>

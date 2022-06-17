@@ -14,9 +14,9 @@
                         <h2>SSR Report List</h2>
                         <table class="table table-striped table-dark">
                             <tr>
-                              <th><B>Sr No.</B></th>
-                              <th><B>2.1.1.2: Average Enrolment percentage (Average of last five years)</B></th>
-                              <td><B>Download Reports</B></td>
+                              <th style = "color: #a64545;font-size: large;"><B>Sr No.</B></th>
+                              <th style = "color: #a64545;font-size: large;"><B>2.1.1.2: Average Enrolment percentage (Average of last five years)</B></th>
+                              <td style = "color: #a64545;font-size: large;"><B>Download Reports</B></td>
                             </tr>
                             <tr> 
                               <td>1</b>
@@ -45,6 +45,28 @@
                               <td>4</b>
                               <td>List of Students with PRN</td>
                               <td><a href="documents/ssr/2.1.1.2/List_of_Students_with_PRN.pdf" target="_blank" style="color: blue;">List of Students with PRN </a> <i class="fa fa-file-pdf-o" aria-hidden="true" style="color: red"></i></td>
+                            </tr>
+                        </table>
+
+
+
+                        <table class="table table-striped table-dark">
+                            <tr>
+                              <th style = "color: #a64545;font-size: large;"><B>Sr No.</B></th>
+                              <th style="width: 66%; color: #a64545;font-size: large;"><B>2.1.2: Average percentage of seats filled against seats reserved for various categories (SC, ST, OBC, Divyangjan, etc. as per applicable reservation policy) during the last five years ( exclusive of supernumerary seats)</B></th>
+                              <td style="color: #a64545;font-size: large;"><B>Download Reports</B></td>
+                            </tr>
+                            <tr> 
+                              <td>1</b>
+                              <td>Circular of reservation policy<br>
+                              </td>
+                              <td><a href="documents/ssr/2.1.1.2/Circular_for_Reservation_Policy.pdf" target="_blank" style="color: blue;">Circular of reservation policy</a> <i class="fa fa-file-pdf-o" aria-hidden="true" style="color: red"></i></td>
+                            </tr>
+
+                            <tr>
+                              <td>2</b>
+                              <td>Final admitted student data as per reservation</td>
+                              <td><a href="documents/ssr/2.1.1.2/Final_admitted_student_data_as_per_reservation.pdf" target="_blank" style="color: blue;">Final admitted student data as per reservation</a> <i class="fa fa-file-pdf-o" aria-hidden="true" style="color: red"></i></td>
                             </tr>
                         </table>
                     </div>
